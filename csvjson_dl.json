@@ -1,5 +1,7 @@
-[
-  
+{
+"status": "ok",
+"totalResults": 70,
+"articles": [
   {
     "Title": "Design of Sick Chicken Automatic Detection System Based on Improved Residual Network",
     "Abstract": "In order to build an intelligent management platform for remote monitoring of livestock and poultry breeding environment based on the Internet of Things and big data, behavioral physiology and production performance tracking monitoring, this article uses broilers as an example to independently develop an automatic detection system for sick chickens based on ResNet residual network. ResNet residual network can alleviate the problem of disappearance of gradient descent and difficulty of network optimization as the number of network layers increases. This system is based on the traditional ResNet residual network. By improving the network structure of ResNet, an improved ResNet-FPN disease chicken recognition model is designed to adapt to different recognition environments. This article first discusses the pros and cons of the traditional artificial expert system diagnostic method, then expands the target picture size through data augmentation, and after tens of thousands of iterative training, finally the model recognition on the test set is improved by 2.1% and the prediction accuracy is improved. Experimental results show that the recognition rate of the model on the test set is as high as 93.7%. Compared with the traditional expert system for diagnosing poultry disease patterns, the model is more effective and robust. Compared with the traditional expert system for identifying sick chickens, this system improves the speed and accuracy of identification and saves a lot of manpower costs.",
@@ -101,3 +103,5 @@
     "Category": "DL"
   }
 ]
+}
+  
