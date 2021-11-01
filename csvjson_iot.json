@@ -1,4 +1,7 @@
-[
+{
+"status": "ok",
+"totalResults": 70,
+"articles": [
   {
     "Title": "IoT-powered system for environmental conditions monitoring in poultry house: A case of Tanzania",
     "Abstract": "Poultry health is imperative for the continued growth of poultry and increased production. Environmental conditions such as temperature, humidity, and ammonia gas have an impact on poultry health. They affect the respiratory system and eventually cause death. In Tanzania, most smallholder farmers use charcoal and kerosene stoves to control the environmental parameters since they have limited access to low-cost, secure, and user-friendly poultry house monitoring systems. However, these traditional methods are unreliable, difficult to manage, not environmentally friendly, and inaccurate. Data were collected from 120 poultry farmers in Arusha and Kilimanjaro regions using convenience and snowball sampling techniques. Of the respondents, 43% revealed that smallholder farmers do not adopt automated systems despite being available because they are expensive. In this study, a system based on the Internet of Things (IoT) was developed for environmental conditions monitoring in poultry houses for low-resourced smallholder farmers in Tanzania. The system saves time (84%) and labour costs (66.7%) compared to the traditional system, as the farmer can monitor and control the conditions securely, reliably, and remotely. The study also proposes an algorithm for the system to work online and offline (i.e.,, synchronizing with the cloud server when internet access is available)",
@@ -91,3 +94,4 @@
     "Category": "IoT"
   }
 ]
+}
