@@ -1,5 +1,7 @@
-[
-  
+{
+"status": "ok",
+"totalResults": 70,
+"articles": [
   {
     "Title": "Monitoring and Detection of Heat Stress of Layers in Poultry Farm using Multiple Linear Regression",
     "Abstract": "Environmental change has a major impact on the performance of a poultry farm. Due to high temperature and high relative humidity, the humidex value will increase at an unprecedented rate. Later, this leads to heat stress in layer poultry farm. In such situation, the data is collected using an IoT device for which the Multiple Linear Regression algorithm is formulated to predict the heat stress level in the poultry farm. The accuracy of the model is determined using Root Mean Squared Error, R-Square and Adjusted R-Square methods. The results show that as the humidex value increases, heat stress in poultry farm increases by affecting the overall performance of the layers in a poultry farm",
@@ -93,5 +95,5 @@
     "Abstract": "Determination of the fodder composition is a difficult process because it should simultaneously consider several constraints, such as minimizing the total cost of feed ingredients and maximizing the nutrient needs required by livestock. This study uses a modified genetic algorithm to solve the problem in order to obtain better results. The modification is done by applying numerical methods in generating an initial population of the genetic algorithm. Testing results show that the optimal parameters that can be used to produce the optimal solution are as follows: population size (popsize) is 300, generation number is 400, crossover rate (cr) value is 0.2, and mutation rate (mr) value is 0.6. The modified genetic algorithm provides an average fitness value of 0.142357, while the classical genetic algorithm provides an average fitness value of 0.094354. With a little additional computational time, which is equal to 110 ms, the use of modified genetic algorithm which is offered has proven to provide a better result, with a higher fitness value compared with classical genetic algorithm.",
     "Category": "ML"
   }
- 
 ]
+}
